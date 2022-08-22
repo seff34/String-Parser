@@ -8,7 +8,7 @@ String Parser in C Standart Libs.
 ## API Functions
 
 #### Timer Initalize
-```http
+```c
 int8_t parser(char* input,const char* header,const char* start,const char* end,char* output );
 ```
 
